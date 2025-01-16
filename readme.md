@@ -15,4 +15,4 @@ mvn spring-boot:run
 ### URLs de acesso
 
 - Banco: **http://localhost:8080/h2-console**
-- Documentação: **http://localhost:8080/swagger-ui**
+- Documentação: **http://localhost:8080/swagger-ui/index.html**
